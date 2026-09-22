@@ -358,7 +358,7 @@ class CopyrightDocGenerator:
             
             f.write("## 八、测试设计\n\n")
             f.write("### 8.1 测试策略\n\n")
-            f.write("-("- 单元测试：测试各个功能模块\n")
+            f.write("- 单元测试：测试各个功能模块\n")
             f.write("- 集成测试：测试模块间的交互\n")
             f.write("- 用户测试：真实用户使用测试\n")
     
